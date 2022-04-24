@@ -1,0 +1,9 @@
+{
+  "name": "the-executor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "update-project-mmd": "npx -p @mermaid-js/mermaid-cli mmdc -t dark -i project.md -o project.svg && mv project-1.svg .github/project.svg"
+  }
+}
