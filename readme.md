@@ -2,7 +2,7 @@
 
 Warn your team whats is going on with your main product.
 
-![Project MMD](https://github.com/ViniciusAudibert/the-executor/blob/main/.github/project.svg?raw=true)
+![Project MMD](https://github.com/ViniciusAudibert/template-executor/blob/main/.github/project.svg?raw=true)
 
 > To update the image above, change project.mmd and run "yarn update-project-mmd"
 
